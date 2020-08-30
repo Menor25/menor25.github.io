@@ -1,0 +1,9 @@
+$color: lightgreen;
+
+.row{
+    div{
+        background-color: $color;
+        padding: 20px;
+        border: 1px solid black;
+    }
+}
